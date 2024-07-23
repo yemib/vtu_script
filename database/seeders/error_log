@@ -1,0 +1,4 @@
+[23-Nov-2023 13:29:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/princebo/public_html/princeboye_vtu/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/princebo/public_html/princeboye_vtu/database/seeders/DatabaseSeeder.php on line 8

@@ -1,0 +1,12 @@
+[08-Feb-2024 14:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/princebo/public_html/princeboye_vtu/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/princebo/public_html/princeboye_vtu/routes/web.php on line 13
+[09-Feb-2024 02:43:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/princebo/public_html/princeboye_vtu/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/princebo/public_html/princeboye_vtu/routes/console.php on line 17
+[13-Feb-2024 09:55:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/princebo/public_html/princeboye_vtu/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/princebo/public_html/princeboye_vtu/routes/channels.php on line 16

@@ -1,0 +1,4 @@
+[20-Nov-2023 04:10:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/princebo/public_html/princeboye_vtu/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/princebo/public_html/princeboye_vtu/bootstrap/app.php on line 14
